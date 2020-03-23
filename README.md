@@ -11,5 +11,5 @@ This project is about exploring US Bikeshare Data using Python to calculate stat
 The main file of this project is the bikeshare python script file. The data files are not part of the repository because they are heavy
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The original forked repo in order to start this project is https://github.com/udacity/pdsnd_github
 
