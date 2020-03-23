@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+The project and the README file were created the 03/17/2020
 
 ### Project Title
-Replace the Project Title
+The name of the project is GitHub project repository for PDSND
 
 ### Description
 Describe what your project is about and what it does
