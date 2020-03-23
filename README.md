@@ -5,10 +5,10 @@ The project and the README file were created the 03/17/2020
 The name of the project is GitHub project repository for PDSND
 
 ### Description
-Describe what your project is about and what it does
+This project is about exploring US Bikeshare Data using Python to calculate statistics and build an interactive environment for users
 
 ### Files used
-Include the files used
+The main file of this project is the bikeshare python script file. The data files are not part of the repository because they are heavy
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
