@@ -276,10 +276,7 @@ def user_stats(df):
     # Display counts of gender
     
     #Check if the column exists
-    if 'Gender' in df.columns:
-        gender_count = df['Gender'].value_counts()
-    else:
-        gender_count = 0
+    gender_count = df['Gender'].value_counts() if 'Gender' in df.columns else 0
 
     print('The count of User Type is : \n', gender_count)
 
