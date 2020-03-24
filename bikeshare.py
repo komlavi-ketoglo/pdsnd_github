@@ -283,10 +283,7 @@ def user_stats(df):
     # Display earliest, most recent, and most common year of birth
     
     #Check if the column exists
-    if 'Birth Year' in df.columns:
-        earliest_birth_year = df['Birth Year'].min()
-    else:
-        earliest_birth_year = 0
+	earliest_birth_year = df['Birth Year'].min() if 'Birth Year' in df.columns else 0
 
     print('The earliest year of birth is : \n', int(earliest_birth_year))
     
