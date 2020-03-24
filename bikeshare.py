@@ -9,7 +9,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_month():
     """
-    Asks user to specify a month.
+    Asks user to specify a month from january to june
 
     Returns:
         (str) month - name of the month to filter by
